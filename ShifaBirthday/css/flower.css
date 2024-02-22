@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+     background-color: #fff5e4;
+  color: #ff9494;
+  }
+  
+  #note-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  #note {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    width: 100%;
+  }
+  
+  #thankyou {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  #birthday-wish {
+    line-height: 1.6;
+  }
+  
+  p {
+    margin-bottom: 15px;
+  }
+  
+  b {
+    color: #333;
+  }
+  
